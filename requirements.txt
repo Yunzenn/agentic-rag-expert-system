@@ -1,0 +1,60 @@
+# Core Framework
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-openai>=0.2.0
+
+# LlamaIndex
+llama-index>=0.11.0
+llama-index-core>=0.11.0
+llama-index-llms-openai>=0.2.0
+llama-index-embeddings-openai>=0.2.0
+llama-index-vector-stores-qdrant>=0.3.0
+llama-index-postprocessor-cohere-rerank>=0.2.0
+llama-index-node-parser>=0.11.0
+
+# Document Parsing
+docling>=0.1.0
+pypdf>=4.0.0
+pdf2image>=1.16.0
+pytesseract>=0.3.10
+
+# Web Crawling
+crawl4ai>=0.3.0
+playwright>=1.40.0
+
+# Semantic Chunking
+semantic-chunkers>=0.0.5
+
+# Vector Database
+qdrant-client>=1.12.0
+
+# Hybrid Search Support
+rank-bm25>=0.2.2
+
+# Local Reranker
+FlagEmbedding>=1.2.0
+torch>=2.0.0
+
+# Web Search Fallback
+tavily-python>=0.5.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+tenacity>=8.5.0
+rich>=13.0.0
+
+# Evaluation
+ragas>=0.2.0
+datasets>=2.0.0
+
+# Visualization
+streamlit>=1.28.0
+
+# Development
+pytest>=8.0.0
+pytest-asyncio>=0.24.0
+black>=24.0.0
+mypy>=1.10.0
