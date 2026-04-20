@@ -31,7 +31,7 @@
 2. 创建您的特性分支 (`git checkout -b feature/AmazingFeature`)
 3. 提交您的更改 (`git commit -m 'Add some AmazingFeature'`)
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启一个 Pull Request
+5. 开启一个 Pull Request 到 [Yunzenn/agentic-rag-expert-system](https://github.com/Yunzenn/agentic-rag-expert-system)
 
 ## 代码规范
 
@@ -45,8 +45,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/agentic-rag.git
-cd agentic-rag
+git clone https://github.com/Yunzenn/agentic-rag-expert-system.git
+cd agentic-rag-expert-system
 
 # 创建虚拟环境
 python3 -m venv venv

@@ -4,6 +4,11 @@ version = "0.1.0"
 description = "Agentic RAG Knowledge Base Expert System for 2026 AI Algorithm Interview"
 readme = "README.md"
 requires-python = ">=3.10"
+authors = [
+    {name = "Yunzenn", email = "yunzenn@github.com"}
+]
+license = {text = "MIT"}
+repository = "https://github.com/Yunzenn/agentic-rag-expert-system"
 dependencies = [
     "langgraph>=0.2.0",
     "langchain>=0.3.0",
