@@ -4,7 +4,6 @@
 
 **项目名称**：Agentic RAG 知识库专家系统  
 **GitHub**：https://github.com/Yunzenn/agentic-rag-expert-system  
-**目标**：为 2026 年 AI 算法实习面试构建的企业级智能问答系统  
 **核心创新**：融合 Corrective RAG (CRAG)、混合检索与自我反思机制，解决传统 RAG 检索僵化与 Agent 幻觉问题
 
 ---
@@ -403,5 +402,3 @@ agentic-rag-expert-system/
 - **置信度阈值**: 3 / 7
 
 ---
-
-这个项目从架构设计到工程实现都非常扎实，展示了您对 RAG 系统的深度理解，是面试展示的绝佳作品！🎉
